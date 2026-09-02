@@ -1,0 +1,6 @@
+{
+  "name": "Voxy - Minecraft LOD Engine",
+  "description": "High-performance Level of Detail (LOD) voxel rendering engine, hierarchical quad octree generator, Vulkan 1.3 pipeline layer, and multi-format world storage explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
